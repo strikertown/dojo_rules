@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Tightly Coupled Code
 * Airing of gievencess
+* Reparations
